@@ -1,5 +1,3 @@
-; 206528275, 50%
-; 315181537, 50%
 .ORIG X412C
 CheckOverflow:	
 ;If 2 Two's Complement numbers are added, and they both have the same sign (both positive or both negative), then overflow occurs if and only if the result has the opposite sign
